@@ -1,0 +1,48 @@
+{
+  "name": "@smply-gd/estate-library",
+  "version": "0.5.1",
+  "description": "Collection of scripts for smply.gd estate frontend ecosystem.",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smply-gd/estate-library.git"
+  },
+  "keywords": [
+    "estate",
+    "library"
+  ],
+  "author": {
+    "name": "smply.gd GmbH",
+    "email": "entwicklung@smply.gd",
+    "url": "https://smply.gd/"
+  },
+  "contributors": [
+    {
+      "name": "Marc Saleiko",
+      "email": "saleiko@smply.gd",
+      "url": "https://github.com/marcsaleiko"
+    },
+    {
+      "name": "Daniel Hoffmann",
+      "email": "hoffmann@smply.gd",
+      "url": "https://github.com/dhoffmann1979"
+    }
+  ],
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/smply-gd/estate-library/issues"
+  },
+  "homepage": "https://github.com/smply-gd/estate-library#readme",
+  "dependencies": {
+    "@smply-gd/autocomplete": "0.0.3",
+    "bootstrap-multiselect": "^0.9.15",
+    "jquery": "^2.2.4",
+    "slick-carousel": "^1.8.1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
